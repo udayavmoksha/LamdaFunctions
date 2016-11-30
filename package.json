@@ -1,0 +1,21 @@
+{
+  "name": "Vmoksha-html5-angular-gulp-seed",
+  "version": "0.1.0",
+  "description": "Vmoksha HTML5 angular and gulp seed project template & continuous Integration",
+  "authors": [
+    "Vmoksha Technologies Inc."
+  ],
+  "license": "VMO",
+  "homepage": "http://www.vmokshagroup.com",
+  "scripts": {
+    "init": "npm install",
+    "install": "bower install",
+    "start": "node src/server/app.js"
+  },
+  "dependencies": {
+   
+  },
+  "devDependencies": {
+    
+  }
+}
