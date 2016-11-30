@@ -9,8 +9,7 @@
   "homepage": "http://www.vmokshagroup.com",
   "scripts": {
     "init": "npm install",
-    "install": "bower install",
-    "start": "node src/server/app.js"
+    "install": "bower install"
   },
   "dependencies": {
    
